@@ -1,0 +1,1 @@
+Unbeknownst to many Android developers, Java isn't the only language you can use to develop on Android. This book describes my exploration on the Android NDK and what can be achieved through it.
