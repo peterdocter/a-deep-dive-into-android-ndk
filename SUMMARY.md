@@ -8,9 +8,6 @@
    * [About JNI](basics/about_jni.md)
    * Calling C code from Java
    * Calling Java code from C
-* Going further with the make files
-   * Tips and tricks
-   * Exporting Modules
 * [Testing the code](testing_the_code/README.md)
 * Android Native APIs
    * Logs, API Level
@@ -30,6 +27,9 @@
    * Zlib
    * STL
 * [Deeper with OpenGL](deeper_with_opengl/README.md)
+* Going further with the make files
+   * Tips and tricks
+   * Exporting Modules
 * [Best Practices ](best_practices/README.md)
 * [Addendum](addendum/README.md)
    * [Command Line Snippets](addendum/command_line_snippets.md)
