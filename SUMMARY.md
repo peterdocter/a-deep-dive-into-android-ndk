@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [Introduction](the_android_os_architecture/README.md)
-   * [The Android OS Architecture](the_android_os_architecture/architecture.md)
-   * [Setting up your environment](the_android_os_architecture/setup.md)
+* [Grab your gear](grab_your_gear/README.md)
+   * [The Android OS Architecture](grab_your_gear/the_android_os_architecture.md)
+   * [Setting up your environment](grab_your_gear/setting_up_your_environment.md)
 * [Basics](basics/README.md)
    * [About JNI](basics/about_jni.md)
    * Calling C code from Java
@@ -35,4 +35,3 @@
    * [Command Line Snippets](addendum/command_line_snippets.md)
    * [Usefull Tools](addendum/usefull_tools)
    * [Links](addendum/links)
-
