@@ -1,2 +1,2 @@
-http://www.ibm.com/developerworks/library/j-jni/
-http://developer.android.com/training/articles/perf-jni.html
+ - http://www.ibm.com/developerworks/library/j-jni/
+ - http://developer.android.com/training/articles/perf-jni.html
